@@ -1,0 +1,25 @@
+
+form{
+    background-color: lightpink;
+}
+
+span{
+    color:blue;
+    font-weight:bold;
+    padding-left: 15px;
+    font-family:"맑은 고딕"
+}
+body{
+    font-family: 휴먼편지체;
+    background-color:aliceblue ;
+}
+h2{
+    font-family: "맑은 고딕" ;
+    text-align: center;
+    color:brown;
+}
+footer{
+    background-color: orange;
+    border-radius: 10px;
+    padding-left: 10px;
+}

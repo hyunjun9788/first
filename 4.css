@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+}
+h2{
+    color:blue;
+    text-decoration: none;
+    text-shadow: 4px 4px 5px lightblue;
+
+}
+ul{
+    border:1px solid black;
+
+}
+h1{
+    color:brown;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:blue;
+}
+article > p {
+    font-family: 휴먼편지체;
+    font-size:1em;
+    text-indent:1em;
+}
+
+header > p {
+    font-family : 휴먼편지체;
+}
+footer{
+    background-color: orange;
+    border-radius: 20px;
+    font-family : 휴먼편지체;
+    padding-left: 15px;
+}
